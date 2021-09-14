@@ -19,8 +19,7 @@ This was the Assignment from Elite Techno group. In this, I have to solve the fo
 For Data Analysis, Pandas is used. The raw data of summer olympic and questions is given from our instructor. We have to give the answers and also plot graph in some.
 
 
-# Who am I?
-My name is Saloni Dogne and I'm a B.tech(C.S.E.) final year student and Blogger. I'm well-versed in web development and having interest in Python/ML. I'm passionate about writing and learning new technologies. My website Link:- http://www.thecreativemind.online My Blogs link:- https://strangewrites.blogspot.com/?m=1
 
 # Other Useful Links:
-LinkedIn:- https://www.linkedin.com/in/saloni-dogne-9ab9901a3
+LinkedIn:- https://www.linkedin.com/in/himanshu-joshi-21aba21a9/
+GitHub:- https://github.com/himanshu-joshi-2000/
